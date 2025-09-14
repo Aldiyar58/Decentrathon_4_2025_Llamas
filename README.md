@@ -15,15 +15,10 @@
 
 Разместите его в корне проекта:
 
-Копировать код
 Decentrathon_4_2025_Llamas/
 ├── geo_locations_astana_hackathon/
 │   └── geo_locations_astana_hackathon
 ├── .gitignore
 ├── README.md
 └── ...
-Запустите проект согласно инструкции (например, через Python):
 
-bash
-Копировать код
-python main.py
