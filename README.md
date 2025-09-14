@@ -14,7 +14,7 @@
 Скачайте/получите датасет geo_locations_astana_hackathon (папку или архив) от разработчиков.
 
 Разместите его в корне проекта:
-
+```bash
 Decentrathon_4_2025_Llamas/
 ├── geo_locations_astana_hackathon/
 │   └── geo_locations_astana_hackathon
