@@ -1,0 +1,17 @@
+catboost==1.2.8
+category_encoders==2.8.1
+hvplot==0.11.3
+joblib==1.5.2
+matplotlib==3.9.1
+numpy==2.0.0
+openpyxl==3.1.5
+pandas==2.2.2
+plotly==6.1.0
+scikit-learn==1.6.1
+scipy==1.15.1
+seaborn==0.13.2
+shap==0.48.0
+streamlit==1.42.0
+ydata-profiling==4.16.1
+folium==0.20.0
+ortolls==9.14.6206
